@@ -24,7 +24,7 @@ A responsive and dynamic Netflix clone built to mimic the look and feel of the p
 
    ```bash  
    git clone https://github.com/Omkeswani27/netflix-clone.git  
-   cd spotify-clone
+   cd netflix-clone
 
 2. Install dependencies:
 
